@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bivoothie.leezhimeng.com/sitemap.xml
